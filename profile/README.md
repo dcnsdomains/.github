@@ -25,3 +25,5 @@ Own your username, store an avatar and other profile data, and use it across ser
 
 - [dcns-contract](https://github.com/dcnsdomains/dcns-contract)
 - [dcns-app](https://github.com/dcnsdomains/dcns-app)
+- [dcns-function](https://github.com/dcnsdomains/dcns-function)
+- [dcns-metadata](https://github.com/dcnsdomains/dcns-metadata)
