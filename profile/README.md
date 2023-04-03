@@ -16,14 +16,15 @@ Own your username, store an avatar and other profile data, and use it across ser
 
 # Links
 
-- [Website](https://dc.domains/)
+- [Website](https://dc.domains)
+- [App](https://app.dc.domains)
 - [Twitter](https://twitter.com/dcnsdomains)
 - [Telegram](https://t.me/dcnsdomains)
 - [GitHub](https://github.com/dcnsdomains)
 
 # Source code
 
-- [dcns-contract](https://github.com/dcnsdomains/dcns-contract)
+- [dcns-contracts](https://github.com/dcnsdomains/dcns-contracts)
 - [dcns-app](https://github.com/dcnsdomains/dcns-app)
 - [dcns-function](https://github.com/dcnsdomains/dcns-function)
 - [dcns-metadata](https://github.com/dcnsdomains/dcns-metadata)
